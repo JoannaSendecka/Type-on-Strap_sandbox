@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 position: 5
-feature-img: "assets/img/pexels/contact.jpeg"
+feature-img: "assets/img/pexels/contact.jpg"
 tags: [Page]
 ---
 
