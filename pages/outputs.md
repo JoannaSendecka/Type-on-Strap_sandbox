@@ -3,7 +3,7 @@ layout: page
 title: Outputs
 permalink: /outputs/
 position: 4
-feature-img: "assets/img/pexels/doctor_R_o.jpeg"
+feature-img: "assets/img/pexels/digi_D_o.jpeg"
 tags: [Page]
 ---
 
