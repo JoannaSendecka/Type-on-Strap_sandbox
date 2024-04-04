@@ -3,13 +3,13 @@ baseurl: "/DIGIfor1Health"
 url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: DIGIfor1Health                                   # site's title
+title: Home                                             # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/SciLifeLab.jpg                         # Empty for no avatar in navbar
+avatar: assets/img/SciLifeLab.jpg                       # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Welcome to DIGIfor1Health  # Change Blog header text
+header_text: Welcome to DIGIfor1Health                  # Change Blog header text
 header_feature_image: assets/img/header/ideas2.png
 header_feature_image_responsive: true
 footer_text: >
