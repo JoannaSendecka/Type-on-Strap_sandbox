@@ -3,7 +3,7 @@ baseurl: "/DIGIfor1Health"
 url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Home                                             # site's title
+title: Hemsida                                             # site's title
 description: "Website for DIGIfor1Health project"      # used by search engines
 avatar: assets/img/SciLifeLab.jpg                       # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
