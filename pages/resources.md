@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 position: 3
-feature-img: "assets/img/pexels/projects_pic.jpeg"
+feature-img: "assets/img/pexels/projects_pic1.jpeg"
 tags: [Page]
 ---
 
