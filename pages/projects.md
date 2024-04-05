@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projekt
 permalink: /projects/
 position: 2
 feature-img: "assets/img/pexels/project_R_p.jpeg"
