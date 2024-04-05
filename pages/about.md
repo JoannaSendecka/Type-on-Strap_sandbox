@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Om oss
 permalink: /about/
 feature-img: "assets/img/pexels/about_R_a1.png"
 tags: [Page]
