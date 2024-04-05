@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Kontact
 permalink: /contact/
 position: 5
 feature-img: "assets/img/pexels/connect_D_c1.jpeg"
