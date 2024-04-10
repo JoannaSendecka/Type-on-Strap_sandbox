@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Utgångar
+title: Resultat
 permalink: /outputs/
 position: 4
 feature-img: "assets/img/pexels/digi_D_o.jpeg"
