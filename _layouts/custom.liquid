@@ -11,7 +11,30 @@ layout: default
         {% include blog/post_info.liquid author=page.author date=page.date %}
         {% endif %}
     </header>
-    <section class="post-content">{{ content }}</section>
+    <section class="post-content">{{ content }}
+    /* --- Aligner --- */
+    /* within page/posts */
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 0.9% 0 1.5% 0;
+    }
+
+    .column {
+      flex: 50%;
+
+      img {
+        width: 100%;
+        min-width: 250px;
+      }
+
+      .single {
+        width: 50%;
+        display: block;
+      }
+    }    
+</section>
 
     <div style="display: inline-block;">
         <!-- Social media shares -->
