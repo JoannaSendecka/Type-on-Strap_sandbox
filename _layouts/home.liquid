@@ -28,10 +28,6 @@ layout: default
             {{ content }}
     {% if page.bootstrap %}</div>{% endif %}
     </section>
-    #<body>
-     # <br>  
-      #<p>{{ content }}</p>
-    #</body>
     {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
     {{ _blog | split: " " | join: " "}}
 </div>
