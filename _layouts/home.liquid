@@ -25,9 +25,7 @@ layout: default
         {{content}}
     </div>
 
-<div class="content">
-    {{ content }}
-</div>
+
     {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
     {{ _blog | split: " " | join: " "}}
 </div>
