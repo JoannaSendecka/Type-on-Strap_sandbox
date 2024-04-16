@@ -1,60 +1,13 @@
 ---
 layout: post
-title: Feature images
-feature-img: "assets/img/feature-img/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
-tags: [Test, Image]
-categories: Example
+title: Senaste i Projektet
+feature-img: "assets/img/feature-img/lab_desk.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/lab_desk.jpeg"
+categories: Post
 ---
 
-Hopefully you will find enough information about how to set images in your blog here.
-This is an example of a post which includes a feature image specified in the front matter of the post. 
-The feature image spans the full-width of the page, and is shown with the title on permalink pages:
-
-```yaml
-feature-img: "assets/img/feature-img/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg" 
-```
-
-You can also use a thumbnail, a smaller version of the same image to improve loading of the page.
-The thumbnail will also be used when you share your article on other platform (linkedin, whatsapp, facebook, ...).
-
->  - And now it is working
-
-You can also add images aligned in your post using the `aligner` include.
-Make sure to separate all of the image path from in a string separated with `,`.
-It by default look into `assets/img/` so give the path from there, example:
-
-{% highlight ruby %}
-{% raw %}
-{% include aligner.html images="pexels/book-glass.jpeg,triangle.png" %}
-{% endraw %}
-{% endhighlight %}
-
-{% include aligner.html images="pexels/book-glass.jpeg,feature-img/desk-messy.jpeg" %}
-
-
-Here you have two images side by side, but you can set more and set the amount per columns 
-(by specifying the number of columns or let it be automatic using `"auto"`):
-
-{% highlight ruby %}
-{% raw %}
-{% include aligner.html images="portfolio/cabin.png,portfolio/cake.png,portfolio/circus.png" column=3 %}
-{% endraw %}
-{% endhighlight %}
-
-{% include aligner.html images="portfolio/cabin.png,portfolio/cake.png,portfolio/circus.png" column=3 %}
-
-it also works with only one images, it is made to display it smaller than normally.
-However you can just use the Markdown way of doing it to get the image normal sized and centered.
-
-{% highlight ruby %}
-{% raw %}
-# Markdown way (bigger)
-![Travel]({{ "/assets/img/pexels/computer.jpeg" | relative_url}})
-# Aligner with only One (50% of width)
-{% include aligner.html images="pexels/computer.jpeg" %}
-{% endraw %}
-{% endhighlight %}
-
-{% include aligner.html images="pexels/computer.jpeg" %}
+Rapport från projektets förstudie var framtagen som ett underlag för redovisning till finansiären samt vägledning vid planeringen och genomförandet av aktuella samarbeten inom hälsodata framöver. 
+Den innehåller sammanställning kring våra gemensamma expertisområden inom rättsfrågor, semantiskt interoperabilitet, teknisk infrastruktur och datasäkerhet. Den innehåller även riskanalyser 
+och diskussion kring design av lösningar för datadelning och förslag på fortsatt arbete med hälsodata inför införandet av det europeiska hälsodataområdet EHDS. Förstudien har utförts med stöd 
+från Vinnova (<a href="https://www.vinnova.se/p/for-effektivt-och-hallbart-nyttjande-av-halsodata-genom-integrering-av-digital-projekten-i-sverige/?_t_id=bg624RHslRuoHiqzodAX4w%3d%3d&_t_uuid=Kf-e5buyTzesNvtD_Kb2gA&_t_q=h%c3%a4lsodata&_t_tags=language%3asv%2csiteid%3a6a0eda26-a5be-4f47-a778-b9393a63f812%2candquerymatch&_t_hit.id=Vinnova_Models_Pages_ProjectPage/_1fa19ef1-50ac-4568-830e-4eada5c0bbd6_sv&_t_hit.pos=17">Dnr 2022-03542</a>). 
+Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/scilifelab.24199164</a>
