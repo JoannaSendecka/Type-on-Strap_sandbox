@@ -10,7 +10,7 @@ bootstrap: true
 <div class="container">
 
   <div class="row">
-    <div class="col-lg-6 mb-3">
+    <div class="col-lg-6 mb-4">
       <div class="card h-100">
 
         <div class="card-body">
@@ -21,7 +21,7 @@ bootstrap: true
         </div>
       </div>
     </div>
-    <div class="col-lg-6 mb-3">
+    <div class="col-lg-6 mb-4">
       <div class="card h-100">
 
         <div class="card-body">
