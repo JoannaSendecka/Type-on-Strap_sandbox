@@ -12,7 +12,7 @@ bootstrap: true
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+
         <div class="card-body">
           <h4 class="card-title">
             <a href="https://www.scilifelab.se">SciLifeLab (koordinator, huvudman är KTH Kungliga Tekniska Högskolan) </a>
