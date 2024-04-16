@@ -9,17 +9,7 @@ tags: [Page]
 
  <div class="home">
     <style scoped>
-        @media screen and (max-width: 768px) {
-            .call-out_img {
-                background-image: url('{{ image[0] | append: '-medium.' | append: image[1] | default: image}}');
-            }
-        }
-        @media screen and (max-width: 576px) {
-            .call-out_img {
-                background-image: url('{{ image[0] | append: '-small.' | append: image[1] }}');
-            }
-        }
-        {% endif %}
+       
     </style>
     <div id="main" class="call-out call-out_img">
         <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
