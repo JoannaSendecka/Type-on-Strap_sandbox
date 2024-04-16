@@ -3,19 +3,81 @@ layout: page
 title: Om oss
 permalink: /about/
 feature-img: "assets/img/pexels/about_R_a1.png"
-tags: [Page]
+bootstrap: true
 ---
 
-DIGIfor1healthSE samlar den experti som gemensamt finns inom ramen för EUDIGITAL-projekten inom hälsodata och det nationella initiativet Genomic Medicine Sweden GMS för att öka synergierna och tillsammans angripa de frågeställningar som behöver adresseras. DIGIfor1healthSE bidrar till ökad samordning mellan stat och region för ett ökat tillgängliggörande av hälsodata för excellent forskning, förbättrad vård och omsorg stärkt svensk konkurrens- och attraktionskraft globalt samt stödjer den nationella utvecklingen inför införandet av det europeiska hälsodataområdet EHDS. Vi vill synliggöra synergier, tydliggöra hinder och framgångar samt, om möjligt, stötta olika målgrupps arbete med hälsodata. Kanaler som vi kan jobba med är website, SciLifeLab’s LinkedIn och möten/events/workshops/liknande.
+<!-- Page Content -->
+<div class="container">
 
-<img src="{{site.baseurl}}/assets/img/feature-img/DIGIfor1Health_collab.png">
+  <div class="row">
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#">Project One</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#">Project Two</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#">Project Three</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#">Project Four</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#">Project Five</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 mb-4">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#">Project Six</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /.row -->
 
-Partners:
-
-GDI https://gdi.onemilliongenomes.eu/
-
-EUCAIM https://tefhealth.eu/home 
-
-TEF-Health https://tef-health.se/
-
-HDS https://www.healthdatasweden.eu/
+</div>
+<!-- /.container -->
