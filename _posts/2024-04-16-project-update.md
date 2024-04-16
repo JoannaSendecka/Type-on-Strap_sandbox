@@ -3,7 +3,7 @@ layout: post
 title: Senaste i Projektet
 feature-img: "assets/img/feature-img/lab_desk.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/lab_desk.jpeg"
-tags: [Test, Image]
+tags: [News, Image]
 categories: Post
 ---
 
