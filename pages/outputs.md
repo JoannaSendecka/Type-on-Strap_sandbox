@@ -8,9 +8,6 @@ tags: [Page]
 ---
 
  <div class="home">
-    <style scoped>
-       
-    </style>
 
     {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
     {{ _blog | split: " " | join: " "}}
