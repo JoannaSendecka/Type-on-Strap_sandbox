@@ -26,7 +26,8 @@ DIGIfor1healthSE bidrar till ökad samordning mellan stat och region för ett ö
     Sebastiaan Meijer (HDS, Kungliga Tekniska Högkolan KTH) <br>
     Richard Rosenquist Brandell (GMS, Karolinska Institutet) <br>
     Johan Rung (SciLifeLab/UU) <br> 
-    Sandra Falck (SciLifeLab/KTH) adjungerad Päivi Östling (SciLifeLab/KI)</p>
+    Sandra Falck (SciLifeLab/KTH) adjungerad <br>
+    Päivi Östling (SciLifeLab/KI)</p>
         </div>
       </div>
     </div>
@@ -35,9 +36,14 @@ DIGIfor1healthSE bidrar till ökad samordning mellan stat och region för ett ö
         
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#">Project Two</a>
+            Referensgrupp:
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">
+    Annemieke Ålenius (E-hälsomyndigheten) <br>
+    Heléne Spjuth (Region Stockholm) <br>
+    Magnus Kjellberg (Västra Götalandsregionen) <br>
+    Markus Lingman (Region Halland) <br>
+    Anna Sandström (AstraZeneca)</p>
         </div>
       </div>
     </div>
