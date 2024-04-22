@@ -5,6 +5,7 @@ permalink: /projects/
 position: 2
 feature-img: "assets/img/pexels/project_R_p.jpeg"
 tags: [Page]
+bootstrap: true
 ---
 
 <!-- Page Content -->
