@@ -8,7 +8,6 @@ tags: [Page]
 ---
 
 With questions related to the project contact:
-email:
-telephone: 
 
-For technical support contact:
+
+For technical support contact: <a href="mailto:datacentre@scilifelab.se">SciLifeLab Data Centre</a>
