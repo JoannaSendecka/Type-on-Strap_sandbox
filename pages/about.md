@@ -16,9 +16,17 @@ DIGIfor1healthSE bidrar till ökad samordning mellan stat och region för ett ö
         
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#">Project One</a>
+            Ledningsgrupp:
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">
+
+    Bengt Persson (GDI, Uppsala Universitet) <br>
+    Daniel Lundqvist (TEF-Health, Karolinska Institutet) <br>
+    Katrine Riklund (EUCAIM, Umeå Universitet) <br>
+    Sebastiaan Meijer (HDS, Kungliga Tekniska Högkolan KTH) <br>
+    Richard Rosenquist Brandell (GMS, Karolinska Institutet) <br>
+    Johan Rung (SciLifeLab/UU) <br> 
+    Sandra Falck (SciLifeLab/KTH) adjungerad Päivi Östling (SciLifeLab/KI)</p>
         </div>
       </div>
     </div>
