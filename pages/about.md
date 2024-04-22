@@ -13,7 +13,7 @@ DIGIfor1healthSE bidrar till ökad samordning mellan stat och region för ett ö
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project One</a>
@@ -24,7 +24,7 @@ DIGIfor1healthSE bidrar till ökad samordning mellan stat och region för ett ö
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project Two</a>
