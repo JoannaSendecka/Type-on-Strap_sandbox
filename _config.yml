@@ -14,7 +14,7 @@ header_feature_image: assets/img/header/doctor_R_h.jpeg
 header_feature_image_responsive: true
 footer_text: >
   <img src="assets/img/SciLifeLab_full.jpg" alt="SLLicon" width="290" height="25" /> 
-  #<img src="assets/img/Vinnova.png" alt="Vinnovaicon" width="290" height="25" />  <br>
+
   Koordinerad av SciLifeLab     Finansierad av Vinnova <br>
 
 # Blog
