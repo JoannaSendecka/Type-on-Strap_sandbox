@@ -2,12 +2,10 @@
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 700
 
-.lora-<uniquifier> {
-  font-family: "Lora", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
+$font-family: "Lora", serif;
+$font-optical-sizing: auto;
+$font-weight: <weight>;
+$font-style: normal;
 $font-size: 1.25em;
 
 $monospace: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif !default;
