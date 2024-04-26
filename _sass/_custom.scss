@@ -6,3 +6,21 @@
   margin: 70px auto;
   padding: 0 15px;
 }
+
+h1.title {
+  @extend .subtle-txt-shadow;
+  padding: 0.5em 0;
+  font: 'Lato';
+}
+
+
+.subtitle {
+  font-weight: normal;
+  margin-top: 5px;
+  text-shadow: 1px 1px 2px var(--text-shadow);
+  font: 'Lato';
+}
+
+p {
+    font: 'Lato';
+}
