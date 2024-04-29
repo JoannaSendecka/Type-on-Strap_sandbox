@@ -19,7 +19,7 @@ footer_text: >
 
 # Blog
 excerpt: false                                          # Or "truncate" (first 250 characters), "false" to disable
-post_navigation: true
+post_navigation: false
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
