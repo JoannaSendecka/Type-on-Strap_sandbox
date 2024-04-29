@@ -13,7 +13,7 @@ header_text: Välkommen till DIGIfor1HealthSE                  # Change Blog hea
 header_feature_image: assets/img/header/doctor_R_h.jpeg
 header_feature_image_responsive: true
 footer_text: >
-   <img src="assets/img/DIGIfor1Health_logos_footerSLL.jpg" alt="Koordinerad av SciLifeLab" width="435" height="60" /> <img src="assets/img/DIGIfor1Health_logos_footerV.jpg" alt="Finansierad av Vinnova" width="435" height="60" /> <br>  
+   <img src="assets/img/DIGIfor1Health_logos_footerSLL.jpg" alt="Koordinerad av SciLifeLab" width="415" height="60" /> <img src="assets/img/DIGIfor1Health_logos_footerV.jpg" alt="Finansierad av Vinnova" width="415" height="60" /> <br>  
 
 # Blog
 excerpt: true                                          # Or "truncate" (first 250 characters), "false" to disable
