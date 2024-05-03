@@ -13,7 +13,8 @@ header_text: Välkommen till DIGIfor1HealthSE                  # Change Blog hea
 header_feature_image: assets/img/header/human_D.jpeg
 header_feature_image_responsive: true
 footer_text: >
-    <img src="assets/img/DIGIfor1Health_logos_footerSLL.jpg" alt="Koordinerad av SciLifeLab" style="width:289px;height:60px;" > <img src="assets/img/DIGIfor1Health_logos_footerV.jpg" alt="Finansierad av Vinnova" style="width:272px;height:66px;" >   
+    <img src="assets/img/DIGIfor1Health_logos_footerSLL.jpg" alt="Koordinerad av SciLifeLab" width="186" height="59" > 
+    <img src="assets/img/DIGIfor1Health_logos_footerV.jpg" alt="Finansierad av Vinnova" width="181" height="64" >   
  
       
  
