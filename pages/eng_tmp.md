@@ -4,7 +4,7 @@ title: ENG
 permalink: /en/
 subtitle: "The English version of this website will be developed later. Thank you very much for the patience"
 feature-img: "assets/img/pexels/loading.png"
-icon: "assets/en.svg"
+icon: "assets/uk.svg"
 excluded: true
 position: 6
 ---
