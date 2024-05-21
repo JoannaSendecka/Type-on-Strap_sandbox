@@ -6,5 +6,5 @@ subtitle: "The English version of this website will be developed later. Thank yo
 feature-img: "assets/img/pexels/loading.png"
 icon: "assets/uk.svg"
 excluded: true
-position: 6
+position: 8
 ---
