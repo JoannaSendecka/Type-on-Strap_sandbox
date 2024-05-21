@@ -5,5 +5,5 @@ permalink: /en/
 subtitle: 
 feature-img: "assets/img/pexels/loading.png"
 icon: "assets/uk.svg"
-position: 7
+position: 6
 ---
