@@ -1,9 +1,9 @@
 ---
 layout: page
-title: The English version of this website will be developed later. <br> Thank you very much for the patience
+title:  <img src="assets/uk.svg" />
 permalink: /en/
-subtitle: 
+subtitle: The English version of this website will be developed later. <br> Thank you very much for the patience
 feature-img: "assets/img/pexels/loading.png"
-icon: "assets/uk.svg"
+
 position: 6
 ---
