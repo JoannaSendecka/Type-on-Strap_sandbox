@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ENG
 permalink: /en/
 subtitle: "The English version of this website will be developed later. Thank you very much for the patience"
