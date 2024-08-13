@@ -21,7 +21,8 @@ bootstrap: true
           <h4 class="card-title">
             <a href="https://gdi.onemilliongenomes.eu/">EHDS GDI</a>
           </h4>
-          <p class="card-text">syftar till att implementera en europeisk infrastruktur för primärt genomikdata som utgör grunden för att möjliggöra det europeiska 1+MG-initiativet där 27 länder skrivit under en deklaration för att tillgängliggöra genomdata med tillhörande basala kliniska fenotypiska data för möjliggörande av individanpassade behandlingar och förbättrad forskning och innovation.  GDI har som mål att minst 15 länder i Europa skall ha nationella 1+MG-noder i full verksamhet vid projektets slut. Totalt är 20+ länder engagerade. </p>
+          <p class="card-text">syftar till att implementera en europeisk infrastruktur för primärt genomikdata som utgör grunden för att möjliggöra det europeiska 1+MG-initiativet där 27 länder skrivit under en deklaration för att tillgängliggöra genomdata med tillhörande basala kliniska fenotypiska data för möjliggörande av individanpassade behandlingar och förbättrad forskning och innovation.  GDI har som mål att minst 15 länder i Europa skall ha nationella 1+MG-noder i full verksamhet vid projektets slut. Totalt är 20+ länder engagerade. <br>
+     Kontaktperson:     <a href="mailto:bengt.persson@scilifelab.se">Bengt Persson</a> </p>
         </div>
       </div>
     </div>
