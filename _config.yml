@@ -12,8 +12,8 @@ favicon: assets/img/SciLifeLabT.ico                             # Icon displayed
 header_text: Välkommen till DIGIfor1HealthSE                  # Change Blog header text
 header_feature_image: assets/img/header/human_D.jpeg
 header_feature_image_responsive: true
-footer_text: > <hr>
-    <img src="assets/img/DIGIfor1Health_footers.png" alt="Koordinerad av SciLifeLab, Finansierad av Vinnova"  align="right" /> 
+footer_text: > 
+    <<hr> img src="assets/img/DIGIfor1Health_footers.png" alt="Koordinerad av SciLifeLab, Finansierad av Vinnova"  align="right" /> 
    
  
       
