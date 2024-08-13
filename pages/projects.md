@@ -45,7 +45,7 @@ bootstrap: true
 
         <div class="card-body">
           <h4 class="card-title">
-            <img src="assets/img/LOGO_EUCAI.png" />
+            <img src="assets/img/HDS logotype_landscape.jpg" />
             <a href="https://www.healthdatasweden.eu/">Health Data Sweden – HDS</a>
           </h4>
           <p class="card-text">bidrar till att säkra, tillgängliggöra och utveckla framtidens digitala hälsotjänster, med fokus på hälsodata och högkvalitativa, tillgängliga, hälsofrämjande och hållbara hälso- och sjukvårds- samt välfärdstjänster för europeiska medborgare. Projektet fokuserar på att öka kontakten med regionala och nationella nätverk och erbjuda och stödja utvecklingen av nya produkter och tjänster, implementering och utbildning. HDS är en European Digital
