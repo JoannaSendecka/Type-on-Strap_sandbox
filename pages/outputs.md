@@ -4,7 +4,7 @@ title: Aktuellt
 permalink: /outputs/
 position: 4
 feature-img: "assets/img/feature-img/lab_desk.jpeg"
-tags: [Page]
+
 ---
 
 Rapport från projektets förstudie var framtagen som ett underlag för redovisning till finansiären samt vägledning vid planeringen och genomförandet av aktuella samarbeten inom hälsodata framöver. 
