@@ -1,4 +1,9 @@
 # Type on Strap 🎨
+to run locally:
+folder: joannasendecka@joannas:~/DIGI4oneHealth/Type-on-Strap$ 
+git pull
+bundle exec jekyll serve
+
 
 [![Build](https://github.com/sylhare/Type-on-Strap/actions/workflows/jekyll-build.yml/badge.svg)](https://github.com/sylhare/Type-on-Strap/actions/workflows/jekyll-build.yml)
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
