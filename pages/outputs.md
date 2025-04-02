@@ -25,10 +25,10 @@ Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/sc
         <div class="card-body">
           <h4 class="card-title">
             <img src="assets/img/EGDI logo_2.png" />
-            <a href="https://gdi.onemilliongenomes.eu/">Genomic Data Infrastructure – GDI</a> 
+            <a href="GDIs videor</a> 
           </h4>
-          <p class="card-text">syftar till att implementera en europeisk infrastruktur för genomikdata och är grunden till att möjliggöra det europeiska 1+MG-initiativet, där 27 länder skrivit under en deklaration för att tillgängliggöra genomdata med tillhörande basala kliniska fenotypiska data, för möjliggörande av individanpassade behandlingar och förbättrad forskning och innovation. Målet är  att minst 15 länder i Europa skall ha nationella 1+MG-noder i full verksamhet vid projektets slut. Totalt är över 20 länder involverade. <br>
-           Kontaktperson:     <a href="mailto:bengt.persson@scilifelab.se">Bengt Persson</a> </p>
+          <p class="card-text">Se GDIs videor: <br> href="https://gdi.onemilliongenomes.eu/news/gdi-technical-infrastructure">här</a> <br>
+ </p>
         </div>
       </div>
     </div>
