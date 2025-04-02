@@ -26,9 +26,9 @@ Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/sc
         <div class="card-body">
           <h4 class="card-title">
             <img src="assets/img/GDI_videos.jpeg" />
-            <p GDIs videor</p> 
+            <a href="https://gdi.onemilliongenomes.eu/news/gdi-technical-infrastructure">GDIs videor</a> 
           </h4>
-          <p class="card-text">Se GDIs videor: <br> <a href="https://gdi.onemilliongenomes.eu/news/gdi-technical-infrastructure">här</a> <br>
+          <p class="card-text" <br>
  </p>
         </div>
       </div>
@@ -39,9 +39,9 @@ Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/sc
         <div class="card-body">
           <h4 class="card-title">
             <img src="assets/img/raporter.jpeg" />
-            <p Övriga rapporter</p>
+            <a href="https://lnu.se/contentassets/27ce9602bef04aef9a4f8bbce2f38b5b/hds-rapport-regionernas-halsodata-1.0.pdf">Övriga rapporter</a>
           </h4>
-          <p class="card-text"> <a href="https://lnu.se/contentassets/27ce9602bef04aef9a4f8bbce2f38b5b/hds-rapport-regionernas-halsodata-1.0.pdf">Rapporter</a> <br>
+          <p class="card-text"  <br>
  </p>
         </div>
       </div>
