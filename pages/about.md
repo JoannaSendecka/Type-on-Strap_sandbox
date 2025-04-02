@@ -69,7 +69,7 @@ Samverkansledare Natalia Kotova, Operations Office, SciLifeLab
         
         <div class="card-body">
           <h4 class="card-title">
-            Arbetsgrupp: <br> Processer för hantering och delning av hälsodata:
+            Arbetsgrupp: <br> Processer för hantering och delning av hälsodata
           </h4>
           <p class="card-text">
 
