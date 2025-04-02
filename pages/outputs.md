@@ -28,8 +28,7 @@ Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/sc
             <img src="assets/img/GDI_videos.jpeg" />
             <a href="https://gdi.onemilliongenomes.eu/news/gdi-technical-infrastructure">GDIs videor</a> 
           </h4>
-          <p class="card-text" <br>
- </p>
+
         </div>
       </div>
     </div>
@@ -41,8 +40,7 @@ Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/sc
             <img src="assets/img/raporter.jpeg" />
             <a href="https://lnu.se/contentassets/27ce9602bef04aef9a4f8bbce2f38b5b/hds-rapport-regionernas-halsodata-1.0.pdf">Övriga rapporter</a>
           </h4>
-          <p class="card-text"  <br>
- </p>
+
         </div>
       </div>
     </div>
