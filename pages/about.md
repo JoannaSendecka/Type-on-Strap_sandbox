@@ -56,5 +56,5 @@ DDIGIfor1healthSE bidrar till ökad samordning mellan stat och region för ökat
 </div>
 <!-- /.container --> 
 
-            Projektledare Sevim Barbasso Helmers, Data Centre, SciLifeLab
-            Samverkansledare Natalia Kotova, Operations Office, SciLifeLab
+Projektledare Sevim Barbasso Helmers, Data Centre, SciLifeLab
+Samverkansledare Natalia Kotova, Operations Office, SciLifeLab
