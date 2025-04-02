@@ -4,6 +4,7 @@ title: Aktuellt
 permalink: /outputs/
 position: 4
 feature-img: "assets/img/feature-img/lab_desk.jpeg"
+bootstrap: true
 
 ---
 
@@ -25,9 +26,9 @@ Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/sc
         <div class="card-body">
           <h4 class="card-title">
             <img src="assets/img/GDI_videos.jpeg" />
-            <a GDIs videor</a> 
+            <p GDIs videor</p> 
           </h4>
-          <p class="card-text">Se GDIs videor: <br> href="https://gdi.onemilliongenomes.eu/news/gdi-technical-infrastructure">här</a> <br>
+          <p class="card-text">Se GDIs videor: <br> <a href="https://gdi.onemilliongenomes.eu/news/gdi-technical-infrastructure">här</a> <br>
  </p>
         </div>
       </div>
@@ -38,10 +39,10 @@ Link: <a href="https://doi.org/10.17044/scilifelab.24199164">doi.org/10.17044/sc
         <div class="card-body">
           <h4 class="card-title">
             <img src="assets/img/raporter.jpeg" />
-            <a Övriga rapporter</a>
+            <p Övriga rapporter</p>
           </h4>
-          <p class="card-text">bygger på det befintliga big data-initiativet för medicinsk avbildning "AI for Health Imaging" AI4HI där 86 institutioner från 20 länder involverade i 5 olika EU-finansierade projekt som genererar information om 91 000 cancerpatienter. Inom dessa pågår utvecklingen av en omfattande och avancerad arkitektur för urskiljning, insamling, lagring, integration och användning av all medicinsk avbildning. EUCAIM bygger infrastruktur för datadelning, AI-utveckling, testning och validering där såväl central som federerad lösning ska levereras. EUCAIM är en viktig insats för samordning av cancerdata och spelar en avgörande roll för accelerationen av informationsdriven cancervård såväl nationellt som i Europa. <br>
-           Kontaktperson:     <a href="mailto:katrine.riklund@umu.se">Katrine Riklund</a> </p>
+          <p class="card-text"> <a href="https://lnu.se/contentassets/27ce9602bef04aef9a4f8bbce2f38b5b/hds-rapport-regionernas-halsodata-1.0.pdf">Rapporter</a> <br>
+ </p>
         </div>
       </div>
     </div>
